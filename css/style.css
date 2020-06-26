@@ -1,0 +1,28 @@
+body{
+	background:#607D8B;
+}
+div{
+    width: 900px;
+    margin-left: auto;
+    background: #00BCD4;
+    margin-right: auto;
+}
+
+img{
+	max-width: 100%
+}
+h1{
+	font-size: 60px;
+	margin-top: 0;
+}
+span{
+	
+    text-transform: uppercase;
+    color: yellow;
+    text-shadow: 5px 5px 5px grey;
+}
+p{
+	font-size: 30px;
+	line-height: 1;
+}
+
